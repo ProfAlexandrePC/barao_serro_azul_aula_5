@@ -92,7 +92,6 @@ footer {
 button {
 background-color: #6b2d5c;
 color: white;
-text-align: center;
 border: none;
 padding: 10px 15px;
 border-radius: 8px;
@@ -101,4 +100,8 @@ cursor: pointer;
 
 button:hover {
 background-color: #9b4d83;
+}
+.curtir{
+    display: block;
+    margin: 20px auto;
 }
