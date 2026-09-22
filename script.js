@@ -6,6 +6,11 @@ function curtir(){
     const contador = botaoCurtir.querySelector("span");
     if(curtiu === false){
         contador.textContent++;
-        curtiu = true;} 
+        curtiu = true;
+    } else{
+        texto.textContent--;
+        curtiu = false;
+    }
+        
         }
 });
