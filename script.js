@@ -8,7 +8,7 @@ function curtir(){
         contador.textContent++;
         curtiu = true;
     } else{
-        texto.textContent--;
+        contador.textContent--;
         curtiu = false;
     }
         
