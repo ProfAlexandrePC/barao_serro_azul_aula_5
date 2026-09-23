@@ -12,5 +12,5 @@ function curtir(){
         curtiu = false;
     }
         
-        }
+    }
 });
